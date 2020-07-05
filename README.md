@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+[![Google_sign_in_flutter](http://img.youtube.com/vi/tUlnoAZAk78/0.jpg)](http://www.youtube.com/watch?v=tUlnoAZAk78 "Google Authentication for Flutter")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
